@@ -1,0 +1,10 @@
+.my-pic {
+    width: 12%;
+    height: 10%;
+    object-fit: cover;
+}
+.pics{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+}
