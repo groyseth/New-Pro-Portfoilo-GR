@@ -9,7 +9,6 @@ This is my professional resume. I utilized bootstrap to help create my resume. I
 
 
 
-Take a look at my portfolio!!
 ## Table of Contents 
 
 
