@@ -1,10 +1,10 @@
 # E-Commerce Project
     
-## Badges  
-  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+
   
 ## Description  
 
+This is my professional resume. I utilized bootstrap to help create my resume. I also love the way it looks, enjoy!
 
 
 
