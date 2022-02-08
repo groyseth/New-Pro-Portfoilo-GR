@@ -2,9 +2,23 @@
     width: 12%;
     height: 10%;
     object-fit: cover;
+    
 }
 .pics{
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
     object-fit: cover;
+    
+}
+body{
+    background-image: url("./images/Plain-White-Wllpaper-.jpg");
+    background-attachment:scroll;
+    background-repeat: no-repeat;
+}
+.whiteback{
+    background-color: aliceblue;
+
+}
+.textCenter{
+    text-align: center;
 }
