@@ -1,7 +1,8 @@
 .my-pic {
-    width: 12%;
+    width: 23%;
     height: 10%;
     object-fit: cover;
+    box-shadow: 6px 7px 7px;
     
 }
 .pics{
@@ -12,13 +13,17 @@
 }
 body{
     background-image: url("./images/Plain-White-Wllpaper-.jpg");
-    background-attachment:scroll;
+    background-attachment:fixed;
     background-repeat: no-repeat;
+    /* object-fit: fixed; */
 }
 .whiteback{
     background-color: aliceblue;
-
+    box-shadow: 2px 5px 17px;
 }
 .textCenter{
     text-align: center;
+}
+.frontText {
+   text-shadow:  2px -1px 5px black;
 }
