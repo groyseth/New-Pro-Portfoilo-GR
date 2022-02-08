@@ -21,7 +21,7 @@ Take a look at my portfolio!!
 
 ## Credits
 Made by Grant Royseth!
-
+[My Resume](https://github.com/groyseth/New-Pro-Portfoilo-GR/files/8020004/Resume.2.pdf)
 
 
 ## Questions
