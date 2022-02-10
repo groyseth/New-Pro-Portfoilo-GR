@@ -12,13 +12,14 @@
     
 }
 body{
-    background-image: url("./images/Plain-White-Wllpaper-.jpg");
+    background-image: url("./images/hopesized.jpg");
+    
     background-attachment:fixed;
     object-fit: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
-    /* object-fit: fixed; */
+    object-fit: fixed;
 }
 .whiteback{
     background-color: aliceblue;
@@ -28,5 +29,27 @@ body{
     text-align: center;
 }
 .frontText {
-   text-shadow:  2px -1px 5px black;
+   text-shadow:  2px -1px 5px white;
+   color: white;
+   /* text-decoration: underline black; */
+}
+.backpic {
+    background-image: url("./images/longer.jpg");
+    
+}
+.bigText{
+    text-shadow:white -1px -2px;
+    color: white;
+}
+.jumboBack{
+    background-image: url("./images/newnav.jpg");
+  box-shadow:  0px 0px 6px white;
+}
+.nav-tabs .nav-link{
+    color: white;
+}
+a{
+    color: black;
+    text-shadow: 1px 1px 1px black;
+    text-decoration: none;
 }
