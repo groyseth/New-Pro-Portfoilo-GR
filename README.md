@@ -1,4 +1,4 @@
-# E-Commerce Project
+# Portfilo
     
 
   
@@ -32,6 +32,8 @@ Reach me at [Gmail](Groyseth@gmail.com)
 
 
 ## Screenshots
-![Screenshot (42)](https://user-images.githubusercontent.com/90479839/152902767-dd206f93-4f9f-4525-a51c-2098775e373b.png)
-![Screenshot (41)](https://user-images.githubusercontent.com/90479839/152902770-7974e77f-8dec-415c-84ca-0ddec80632fd.png)
-![Screenshot (40)](https://user-images.githubusercontent.com/90479839/152902773-51682272-45b8-4c38-ba21-224e2815f837.png)
+
+
+![Screenshot (45)](https://user-images.githubusercontent.com/90479839/153503492-76f404ac-1ada-4530-9424-23f493a14a6a.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/90479839/153503510-f533c742-77fa-48da-84f2-6a8e32779bce.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/90479839/153503526-b44d9007-fa8e-40bf-8b32-81bc8329d9fc.png)
