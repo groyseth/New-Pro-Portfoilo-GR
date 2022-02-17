@@ -60,3 +60,7 @@ a{
 .videoShade{
     box-shadow:  0px 0px 6px rgb(0, 0, 0);
 }
+.covering{
+    object-position: center;
+    text-align: center;
+}
