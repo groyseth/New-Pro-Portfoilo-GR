@@ -53,3 +53,10 @@ a{
     text-shadow: 1px 1px 1px black;
     text-decoration: none;
 }
+#textBackGround{
+    background-image: url("./images/th.jpg");
+    box-shadow:  0px 0px 6px rgb(0, 0, 0);
+}
+.videoShade{
+    box-shadow:  0px 0px 6px rgb(0, 0, 0);
+}
