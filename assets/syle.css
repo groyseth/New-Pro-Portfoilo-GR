@@ -64,3 +64,7 @@ a{
     object-position: center;
     text-align: center;
 }
+.nav-link{
+    color: none;
+    background-color: none;
+}
