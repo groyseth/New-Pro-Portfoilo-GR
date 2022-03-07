@@ -4,7 +4,7 @@
   
 ## Description  
 
-This is my professional resume. I utilized bootstrap to help create my resume. I also love the way it looks, enjoy!
+This is my professional resume. Utilized bootstrap to help create my resume. I also love the way it looks, enjoy!
 
 [Take a look at my live page!](https://groyseth.github.io/New-Pro-Portfoilo-GR/)
 
